@@ -1,4 +1,4 @@
-# Predictive Analytics & Ensemble Learning Labs
+# Predictive Analytics & Modelling
 
 This repository contains **hands-on Jupyter notebook implementations** of core **predictive analytics and ensemble learning algorithms**, organized module-wise for clarity and academic submission.
 
