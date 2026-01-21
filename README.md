@@ -88,7 +88,7 @@ This repository is intended for:
 ## 👤 Author
 
 **Sakir**
-Predictive Analytics & Machine Learning Student
+| Predictive Analytics & Machine Learning Student
 
 ---
 
